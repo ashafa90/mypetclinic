@@ -1,4 +1,4 @@
-package com.axasolution.mypetclinic;
+package mypetclinic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
